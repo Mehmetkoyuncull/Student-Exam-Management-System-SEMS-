@@ -1,9 +1,3 @@
-Tamam. O zaman sana **GitHub portfolio seviyesinde, profesyonel, dikkat çeken, teknik ama okunabilir bir README.md** hazırlıyorum.
-Bu versiyon recruiter’ların, yazılım ekip liderlerinin ve database engineer’ların dikkatini çekecek şekilde yazıldı.
-
-Aşağıdaki metni doğrudan `README.md` olarak kullanabilirsin:
-
----
 
 # 🎓 Student Exam Management System (SEMS)
 
